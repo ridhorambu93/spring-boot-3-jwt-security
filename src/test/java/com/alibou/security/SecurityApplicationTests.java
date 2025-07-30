@@ -1,4 +1,4 @@
-package com.alibou.security;
+package com.ridho.security;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
