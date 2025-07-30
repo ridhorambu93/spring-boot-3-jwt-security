@@ -23,7 +23,7 @@ Ensure you have the following installed:
 
 Steps to Run the Project
 Clone the Repository:
-```git clone https://github.com/ali-bouali/spring-boot-3-jwt-security.git```
+```git clone https://github.com/ridhorambu93/spring-boot-3-jwt-security.git```
 
 Navigate to the Project Directory
 ```cd spring-boot-3-jwt-security```
