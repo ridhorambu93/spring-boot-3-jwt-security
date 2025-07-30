@@ -39,6 +39,6 @@ Access the Application: Visit: http://localhost:8080
 
 
 #NOTE : This project was created by ali-bouali
-- you can access original repo = <a href="https://github.com/ali-bouali/spring-boot-3-jwt-security.git">right here</a>.
+- you can access original repo <a href="https://github.com/ali-bouali/spring-boot-3-jwt-security.git">right here</a>.
 - I am using a classic technique: observe, imitate, and modify. The goal is clear: to learn and enhance my backend development skills.
 #KeepLearning #LongLifeLearning #HappyCoding
