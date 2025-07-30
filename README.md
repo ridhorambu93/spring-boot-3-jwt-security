@@ -38,4 +38,6 @@ Run the Application:
 Access the Application: Visit: http://localhost:8080
 
 
-#NOTE : This project was created by ali-bouali. I am using a classic technique: observe, imitate, and modify. The goal is clear: to learn and enhance my backend development skills.
+#NOTE : This project was created by ali-bouali.
+- I am using a classic technique: observe, imitate, and modify. The goal is clear: to learn and enhance my backend development skills.
+#KeepLearning #LongLifeLearning #HappyCoding
